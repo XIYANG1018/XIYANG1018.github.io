@@ -53,6 +53,8 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
+port: 4003
+
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
